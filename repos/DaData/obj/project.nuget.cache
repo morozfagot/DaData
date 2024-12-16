@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AAS9IgMnIgE=",
+  "dgSpecHash": "9CUpPFakcE4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\DaData\\DaData.csproj",
+  "projectFilePath": "C:\\Users\\Евгений\\Desktop\\DaData\\repos\\DaData\\DaData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евгений\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Евгений\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

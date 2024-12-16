@@ -1,78 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\fulladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\abstractions\\messaging\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\fulladdresserror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\events\\addressstandartizeddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\interfaces\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\valueobjects\\sity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\valueobjects\\street.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\addressforstandartization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\dadataresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\abstractions\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\address\\valueobjects\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.domain\\dadata.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69FACFB-A806-4B4D-8B73-1851FA96C896}|DaData.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69FACFB-A806-4B4D-8B73-1851FA96C896}|DaData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69FACFB-A806-4B4D-8B73-1851FA96C896}|DaData.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata\\dadata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F69FACFB-A806-4B4D-8B73-1851FA96C896}|DaData.csproj|solutionrelative:dadata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.application\\dadata.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.application\\address\\queries\\fulladdress\\fulladdressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.application\\address\\queries\\fulladdress\\fulladdresssuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69FACFB-A806-4B4D-8B73-1851FA96C896}|DaData.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F69FACFB-A806-4B4D-8B73-1851FA96C896}|DaData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\dadata.application\\address\\queries\\fulladdress\\fulladdressquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.domain\\address\\fulladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,284 +28,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FullAddressError.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\FullAddressError.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\FullAddressError.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\FullAddressError.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\FullAddressError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T16:46:09.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAddressRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\Interfaces\\IAddressRepository.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\Interfaces\\IAddressRepository.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\Interfaces\\IAddressRepository.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\Interfaces\\IAddressRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:33:57.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DaDataResponce.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\DaDataResponce.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\DaDataResponce.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\DaDataResponce.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\DaDataResponce.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:37:04.264Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FullAddress.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\FullAddress.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\FullAddress.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\FullAddress.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\FullAddress.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAADwv1AAAAAeAAAAAAAAAA==",
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\Interface1.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\Interface1.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\Interface1.cs",
+              "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T22:12:35.039Z",
+              "WhenOpened": "2024-12-15T20:43:41.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddressForStandartization.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\AddressForStandartization.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\AddressForStandartization.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\AddressForStandartization.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\AddressForStandartization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:09:56.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Street.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\ValueObjects\\Street.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\ValueObjects\\Street.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\ValueObjects\\Street.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\ValueObjects\\Street.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:49:27.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sity.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\ValueObjects\\Sity.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\ValueObjects\\Sity.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\ValueObjects\\Sity.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\ValueObjects\\Sity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:48:47.021Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\Result.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\Result.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\Result.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\Result.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAmAAAAAAAAAA==",
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T10:11:09.854Z"
+              "WhenOpened": "2024-12-15T20:36:18.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddressStandartizedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\Events\\AddressStandartizedDomainEvent.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\Events\\AddressStandartizedDomainEvent.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\Events\\AddressStandartizedDomainEvent.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\Events\\AddressStandartizedDomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:16:29.351Z"
+              "WhenOpened": "2024-12-15T20:27:27.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\Error.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\Error.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\Error.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\Error.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T10:11:20.782Z"
+              "WhenOpened": "2024-12-15T20:21:25.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\ValueObjects\\Country.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\ValueObjects\\Country.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Address\\ValueObjects\\Country.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Address\\ValueObjects\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\DaData.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:43:54.625Z"
+              "WhenOpened": "2024-12-15T14:42:32.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\IUnitOfWork.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FullAddress.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Address\\FullAddress.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\FullAddress.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Address\\FullAddress.cs",
+              "RelativeToolTip": "..\\DaData.Domain\\Address\\FullAddress.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:43:35.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\IRepositoryBase.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\IRepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:46:36.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\Entity.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\Entity.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\Entity.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:30:51.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\IDomainEvent.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\IDomainEvent.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\Abstractions\\IDomainEvent.cs",
-              "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\IDomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:54:41.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:29:45.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DaData.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\DaData.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\DaData.Domain\\DaData.Domain.csproj",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Domain\\DaData.Domain.csproj",
-              "RelativeToolTip": "..\\DaData.Domain\\DaData.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T22:11:23.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DaData.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\DaData.Application.csproj",
-              "RelativeDocumentMoniker": "..\\DaData.Application\\DaData.Application.csproj",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\DaData.Application.csproj",
-              "RelativeToolTip": "..\\DaData.Application\\DaData.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T21:57:32.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FullAddressQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQueryHandler.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQueryHandler.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQueryHandler.cs",
-              "RelativeToolTip": "..\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:56:52.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FullAddressSuccess.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressSuccess.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressSuccess.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressSuccess.cs",
-              "RelativeToolTip": "..\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressSuccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:57:11.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T11:39:45.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DaData.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData\\DaData.csproj",
-              "RelativeDocumentMoniker": "DaData.csproj",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData\\DaData.csproj",
-              "RelativeToolTip": "DaData.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T22:32:19.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FullAddressQuery.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQuery.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQuery.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQuery.cs",
-              "RelativeToolTip": "..\\DaData.Application\\Address\\Queries\\FullAddress\\FullAddressQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:56:27.934Z"
+              "WhenOpened": "2024-12-15T14:28:27.145Z",
+              "EditorCaption": ""
             }
           ]
         }

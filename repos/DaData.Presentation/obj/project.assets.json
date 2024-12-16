@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Евгений\\source\\repos\\DaData.Presentation\\DaData.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\Евгений\\Desktop\\DaData\\repos\\DaData.Presentation\\DaData.Presentation.csproj",
       "projectName": "DaData.Presentation",
-      "projectPath": "C:\\Users\\Евгений\\source\\repos\\DaData.Presentation\\DaData.Presentation.csproj",
+      "projectPath": "C:\\Users\\Евгений\\Desktop\\DaData\\repos\\DaData.Presentation\\DaData.Presentation.csproj",
       "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Евгений\\source\\repos\\DaData.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\Евгений\\Desktop\\DaData\\repos\\DaData.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

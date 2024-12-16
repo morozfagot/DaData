@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zHZvCNqr+/E=",
+  "dgSpecHash": "0AKyD0PJytU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\DaData.Application\\DaData.Application.csproj",
+  "projectFilePath": "C:\\Users\\Евгений\\Desktop\\DaData\\repos\\DaData.Application\\DaData.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евгений\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Евгений\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

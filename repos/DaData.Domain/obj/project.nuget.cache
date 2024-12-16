@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "irhJ3JDL6Ak=",
+  "dgSpecHash": "EkRSWUBD65A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\DaData.Domain\\DaData.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Евгений\\Desktop\\DaData\\repos\\DaData.Domain\\DaData.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евгений\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Евгений\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
