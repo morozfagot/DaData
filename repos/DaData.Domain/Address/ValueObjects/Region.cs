@@ -1,4 +1,4 @@
 ﻿namespace DaData.Domain.Address.ValueObjects
 {
-    public record Sity(string Value);
+    public record Region(string Value);
 }
