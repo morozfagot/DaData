@@ -64,8 +64,7 @@
               "RelativeToolTip": "..\\DaData.Domain\\Address\\FullAddressFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:51:21.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:51:21.446Z"
             },
             {
               "$type": "Document",
@@ -90,8 +89,7 @@
               "RelativeToolTip": "..\\DaData.Application\\Address\\Commands\\FullAddressCommandSuccess.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:50:29.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T08:50:29.434Z"
             },
             {
               "$type": "Document",
@@ -103,8 +101,7 @@
               "RelativeToolTip": "..\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:49:54.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T08:49:54.988Z"
             },
             {
               "$type": "Document",
@@ -116,8 +113,7 @@
               "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:43:41.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T20:43:41.773Z"
             },
             {
               "$type": "Document",
@@ -129,8 +125,7 @@
               "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\ICommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:36:18.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T20:36:18.512Z"
             },
             {
               "$type": "Document",
@@ -142,8 +137,7 @@
               "RelativeToolTip": "..\\DaData.Domain\\DomainDependencies\\DomainDependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:02:52.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T12:02:52.767Z"
             },
             {
               "$type": "Document",
@@ -155,8 +149,7 @@
               "RelativeToolTip": "..\\DaData.Application\\ApplicationDependencies\\ApplicationDependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T14:42:32.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T14:42:32.366Z"
             },
             {
               "$type": "Document",
@@ -168,8 +161,7 @@
               "RelativeToolTip": "..\\DaData.Domain\\Address\\Interfaces\\IFullAddressFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:45:28.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:45:28.47Z"
             },
             {
               "$type": "Document",
@@ -181,8 +173,7 @@
               "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\Entity.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:54:56.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:54:56.329Z"
             },
             {
               "$type": "Document",
@@ -194,8 +185,7 @@
               "RelativeToolTip": "..\\DaData.Domain\\Address\\FullAddress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T14:28:27.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T14:28:27.145Z"
             },
             {
               "$type": "Document",
@@ -207,8 +197,7 @@
               "RelativeToolTip": "..\\DaData.Domain\\Abstractions\\IRepositoryManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:41:21.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:41:21.635Z"
             },
             {
               "$type": "Document",
@@ -220,8 +209,7 @@
               "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:27:27.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T20:27:27.9Z"
             },
             {
               "$type": "Document",
@@ -233,8 +221,7 @@
               "RelativeToolTip": "..\\DaData.Application\\Abstractions\\Messaging\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:21:25.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T20:21:25.376Z"
             }
           ]
         }

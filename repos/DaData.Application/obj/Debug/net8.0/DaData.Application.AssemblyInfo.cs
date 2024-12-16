@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaData.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51d7ae25c55fd373e8ee705f0c6870272e2a8e63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21422d75cd34fab370f8bea17f6052011db767db")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaData.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaData.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
