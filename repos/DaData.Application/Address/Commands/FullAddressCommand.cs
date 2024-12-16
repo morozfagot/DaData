@@ -1,6 +1,4 @@
-﻿using AutoMapper;
-using DaData.Application.Abstractions.Messaging;
-using DaData.Domain.Address;
+﻿using DaData.Application.Abstractions.Messaging;
 
 namespace DaData.Application.Address.Commands
 {

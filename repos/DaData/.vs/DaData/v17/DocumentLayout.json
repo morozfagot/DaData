@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\commands\\fulladdresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.domain\\abstractions\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\commands\\fulladdressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\commands\\fulladdresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\commands\\fulladdresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.domain\\address\\fulladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.domain\\address\\valueobjects\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\commands\\fulladdresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59463C2-B2BF-4E97-B690-D7D4A8FCE7D8}|..\\DaData.Domain\\DaData.Domain.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.domain\\abstractions\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -51,31 +51,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FullAddressCommand.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
-              "RelativeToolTip": "..\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:49:54.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FullAddress.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Address\\FullAddress.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\FullAddress.cs",
               "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Address\\FullAddress.cs",
               "RelativeToolTip": "..\\DaData.Domain\\Address\\FullAddress.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA5wAIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T14:28:27.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IRepositoryManager.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Abstractions\\IRepositoryManager.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\IRepositoryManager.cs",
@@ -87,29 +74,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FullAddressDto.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressDto.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Commands\\FullAddressDto.cs",
               "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressDto.cs",
               "RelativeToolTip": "..\\DaData.Application\\Address\\Commands\\FullAddressDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:50:29.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T08:50:29.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FullAddressCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressCommandHandler.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Commands\\FullAddressCommandHandler.cs",
               "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressCommandHandler.cs",
               "RelativeToolTip": "..\\DaData.Application\\Address\\Commands\\FullAddressCommandHandler.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T08:50:16.106Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullAddressCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
+              "RelativeToolTip": "..\\DaData.Application\\Address\\Commands\\FullAddressCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:49:54.988Z"
             },
             {
               "$type": "Document",
@@ -125,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Address\\ValueObjects\\Region.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\ValueObjects\\Region.cs",

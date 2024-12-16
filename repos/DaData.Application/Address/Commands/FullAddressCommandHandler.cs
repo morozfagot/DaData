@@ -46,6 +46,8 @@ namespace DaData.Application.Address.Commands
                 return Result.Failure<FullAddressDto>(FullAddressError.InvalidRequest);
             }
 
+            repositoryManager.AddressRepository.CreateFullAddress(dadataResult.Value);
+
             var result = mapper.Map<FullAddressDto>(dadataResult.Value);
 
             return result;
