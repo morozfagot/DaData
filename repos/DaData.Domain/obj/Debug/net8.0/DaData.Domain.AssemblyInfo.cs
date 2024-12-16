@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaData.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca62ad99617f1697a405e22104e47f5b6c6e4c8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51d7ae25c55fd373e8ee705f0c6870272e2a8e63")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaData.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaData.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
