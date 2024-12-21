@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaData.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d490530106c7873f8d7263faabea186d5f9b5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f676767106286ac1ea1d3141902ada37a4fdddbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaData.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaData.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

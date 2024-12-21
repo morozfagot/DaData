@@ -4,6 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>	  
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,7 +14,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DaData.Application\DaData.Application.csproj" />
     <ProjectReference Include="..\DaData.Domain\DaData.Domain.csproj" />
+    <ProjectReference Include="..\DaData.Infrastructure\DaData.Infrastructure.csproj" />
+    <ProjectReference Include="..\DaData.Presentation\DaData.Presentation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\" />
   </ItemGroup>
 
 </Project>

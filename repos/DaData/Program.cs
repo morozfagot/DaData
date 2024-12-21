@@ -1,13 +1,20 @@
-using DaData.Domain.Address;
+using DaData.Application.ApplicationDependencies;
+using DaData.Infrastructure.InfrastructureDependencies;
+using DaData.Infrastructure.Services.DaData;
+using DaData.Presentation;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 
 // Add services to the container.
 builder.Services.AddAutoMapper(typeof(Program));
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllers();
 builder.Services.AddHttpClient();
 builder.Services.Configure<DaDatakeys>(configuration.GetSection("DaData"));
+builder.Services.AddPresentationDependencies();
+builder.Services.AddApplicationDependencies();
+builder.Services.AddInfrastructureDependencies();
+
 
 var app = builder.Build();
 
@@ -18,16 +25,12 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-
+app.UseCustomSwagger();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-app.UseRouting();
+app.MapControllers();
 
 app.UseAuthorization();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

@@ -11,16 +11,16 @@ namespace DaData.Domain.Address
             Country country,
             Region region,
             Street street,
-            int houseNamber,
-            int roomNamber,
+            int houseNumber,
+            int roomNumber,
             int postalCode)
             : base(id)
         {
             Country = country;
             Region = region;
             Street = street;
-            HouseNumber = houseNamber;
-            RoomNumber = roomNamber;
+            HouseNumber = houseNumber;
+            RoomNumber = roomNumber;
             PostalCode = postalCode;
         }
 
@@ -31,18 +31,26 @@ namespace DaData.Domain.Address
         public int RoomNumber { get; private set; }
         public int PostalCode { get; private set; }
 
-        public Result<FullAddress> Create(CancellationToken cancellationToken,
-            Country country,
-            Region region,
-            Street street,
-            int house,
-            int room,
+        public static Result<FullAddress> Create(string country,
+            string region,
+            string street,
+            int houseNumber,
+            int roomNumber,
             int postalCode)
         {
-            var fullAddress = new FullAddress(Guid.NewGuid(), country, region, street, house, room, postalCode);
+            var address = new FullAddress(
+                Guid.NewGuid(),
+                new Country(country),
+                new Region(region),
+                new Street(street),
+                houseNumber,
+                roomNumber,
+                postalCode
+            );
 
-            fullAddress.RaiseDomainEvent(new AddressStandartizedDomainEvent(fullAddress.Id));
-            return fullAddress;
+            address.RaiseDomainEvent(new AddressStandartizedDomainEvent(address.Id));
+
+            return address;
         }
     }
 }

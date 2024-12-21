@@ -129,11 +129,23 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MediatR.Contracts": {
+            "MediatR": {
               "target": "Package",
-              "version": "[2.0.1, )"
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
