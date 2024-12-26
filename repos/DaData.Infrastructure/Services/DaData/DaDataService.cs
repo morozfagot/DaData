@@ -2,7 +2,6 @@
 using DaData.Domain.Address;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
-using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 
@@ -16,21 +15,15 @@ namespace DaData.Infrastructure.Services.DaData
             var token = daDataKeys.Token;
             var secret = daDataKeys.Secret;
 
-            httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Token", token);
-            httpClient.DefaultRequestHeaders.Add("X-Secret", secret);
+            var json = JsonConvert.SerializeObject(new string[] { addressForStandardization });
 
-            httpClient.DefaultRequestHeaders.Accept.Clear();
-            httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            var requestMessage = new HttpRequestMessage(HttpMethod.Post, "https://cleaner.dadata.ru/api/v1/clean/address");
+            requestMessage.Headers.Authorization = new AuthenticationHeaderValue("Token", token);
+            requestMessage.Headers.Add("X-Secret", secret);
+            requestMessage.Headers.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            requestMessage.Content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            var requestBody = new
-            {
-                data = addressForStandardization
-            };
-
-            var json = JsonConvert.SerializeObject(requestBody);
-            var content = new StringContent(json, Encoding.UTF8, "application/json");
-
-            var response = await httpClient.PostAsync("https://cleaner.dadata.ru/api/v1/clean/address", content);
+            var response = await httpClient.SendAsync(requestMessage);
 
             if (response.IsSuccessStatusCode)
             {
@@ -39,14 +32,13 @@ namespace DaData.Infrastructure.Services.DaData
                 var jsonSettings = new JsonSerializerSettings();
                 jsonSettings.Converters.Add(new JsonAddressConverter());
 
-                var result = JsonConvert.DeserializeObject<Result<FullAddress>>(jsonResponse);
+                var result = JsonConvert.DeserializeObject<Result<FullAddress>>(jsonResponse, jsonSettings);
 
                 return result;
             }
             else
             {
                 var errorContent = await response.Content.ReadAsStringAsync();
-                Console.WriteLine($"Error: {response.StatusCode}, Content: {errorContent}");
 
                 return Result.Failure<FullAddress>(FullAddressError.InvalidRequest);
             }

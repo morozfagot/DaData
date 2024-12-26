@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaData.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13f46b26cce6f8acfd0c0756df9c94e554e55638")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c865955c5f4882d634a8757536754132f3d92bb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaData.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaData.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

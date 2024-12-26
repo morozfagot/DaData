@@ -6,12 +6,12 @@ namespace DaData.Domain.Abstractions
     {
         protected internal Result(bool isSuccess, Error error)
         {
-            if (IsSuccess && error != Error.None)
+            if (isSuccess && error != Error.None)
             {
                 throw new InvalidOperationException();
             }
 
-            if (!IsSuccess && error == Error.None)
+            if (!isSuccess && error == Error.None)
             {
                 throw new InvalidOperationException();
             }
