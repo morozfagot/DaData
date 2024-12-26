@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\queries\\parseaddresses\\fulladdressquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E39456F1-A897-4CCC-B069-04111E2367C3}|..\\DaData.Presentation\\DaData.Presentation.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.presentation\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\queries\\parseaddresses\\fulladdressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{130C5601-0C76-4A32-A3D8-C89D2109963F}|..\\DaData.Infrastructure\\DaData.Infrastructure.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.infrastructure\\services\\dadata\\dadataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C2D38-5DDC-43F7-AC86-3733BE37FBE0}|..\\DaData.Application\\DaData.Application.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.application\\address\\queries\\parseaddresses\\fulladdressquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E39456F1-A897-4CCC-B069-04111E2367C3}|..\\DaData.Presentation\\DaData.Presentation.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.presentation\\presentationdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -22,9 +22,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{E39456F1-A897-4CCC-B069-04111E2367C3}|..\\DaData.Presentation\\DaData.Presentation.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{130C5601-0C76-4A32-A3D8-C89D2109963F}|..\\DaData.Infrastructure\\DaData.Infrastructure.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.infrastructure\\services\\dadata\\dadataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{130C5601-0C76-4A32-A3D8-C89D2109963F}|..\\DaData.Infrastructure\\DaData.Infrastructure.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\desktop\\dadata\\repos\\dadata.infrastructure\\services\\dadata\\jsonaddressconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -109,57 +106,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Presentation\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Presentation\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Presentation\\AssemblyReference.cs",
-              "RelativeToolTip": "..\\DaData.Presentation\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:14:28.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FullAddressQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQueryHandler.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQueryHandler.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQueryHandler.cs",
-              "RelativeToolTip": "..\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T21:20:26.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AddressController.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Presentation\\Controllers\\AddressController.cs",
               "RelativeDocumentMoniker": "..\\DaData.Presentation\\Controllers\\AddressController.cs",
               "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Presentation\\Controllers\\AddressController.cs",
               "RelativeToolTip": "..\\DaData.Presentation\\Controllers\\AddressController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T16:30:32.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FullAddressQuery.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQuery.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQuery.cs",
               "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQuery.cs",
               "RelativeToolTip": "..\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:43:08.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:43:08.668Z"
             },
             {
               "$type": "Document",
@@ -187,6 +159,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DaDataService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
+              "RelativeToolTip": "..\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:15:13.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "..\\DaData.Presentation\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "..\\DaData.Presentation\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:14:28.776Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FullAddressDto.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Address\\Queries\\ParseAddresses\\FullAddressDto.cs",
@@ -200,18 +196,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DaDataService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
-              "RelativeDocumentMoniker": "..\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
-              "RelativeToolTip": "..\\DaData.Infrastructure\\Services\\DaData\\DaDataService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAjwCQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T18:15:13.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "JsonAddressConverter.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\Services\\DaData\\JsonAddressConverter.cs",
               "RelativeDocumentMoniker": "..\\DaData.Infrastructure\\Services\\DaData\\JsonAddressConverter.cs",
@@ -223,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
@@ -235,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\ICommand.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\ICommand.cs",
@@ -247,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Abstractions\\Result.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\Result.cs",
@@ -260,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\AppData\\Local\\SourceServer\\a3d87a966775db80351663209e009890a89e8229ce8c5e7f2ebff03ed6fc8b76\\repos\\DaData.Domain\\Abstractions\\Result.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\a3d87a966775db80351663209e009890a89e8229ce8c5e7f2ebff03ed6fc8b76\\repos\\DaData.Domain\\Abstractions\\Result.cs",
@@ -273,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "DaDatakeys.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\Services\\DaData\\DaDatakeys.cs",
               "RelativeDocumentMoniker": "..\\DaData.Infrastructure\\Services\\DaData\\DaDatakeys.cs",
@@ -285,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "DaData.Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Presentation\\DaData.Presentation.csproj",
               "RelativeDocumentMoniker": "..\\DaData.Presentation\\DaData.Presentation.csproj",
@@ -297,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "InfrastructureDependencies.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\InfrastructureDependencies\\InfrastructureDependencies.cs",
               "RelativeDocumentMoniker": "..\\DaData.Infrastructure\\InfrastructureDependencies\\InfrastructureDependencies.cs",
@@ -309,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -321,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -333,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "ApplicationDependencies.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\ApplicationDependencies\\ApplicationDependencies.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\ApplicationDependencies\\ApplicationDependencies.cs",
@@ -345,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "IExeptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Abstractions\\IExeptionHandler.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\IExeptionHandler.cs",
@@ -357,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "IDaDataService.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Abstractions\\IDaDataService.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\IDaDataService.cs",
@@ -369,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Error.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Abstractions\\Error.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\Error.cs",
@@ -381,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Abstractions\\Entity.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\Entity.cs",
@@ -393,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "DaData.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Infrastructure\\DaData.Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\DaData.Infrastructure\\DaData.Infrastructure.csproj",
@@ -405,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\IQuery.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\IQuery.cs",
@@ -417,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "DaData.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\DaData.Domain.csproj",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\DaData.Domain.csproj",
@@ -429,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "IRepositoryManager.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Abstractions\\IRepositoryManager.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Abstractions\\IRepositoryManager.cs",
@@ -441,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "DaData.csproj",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData\\DaData.csproj",
               "RelativeDocumentMoniker": "DaData.csproj",
@@ -453,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "GlobalExeptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Errors\\GlobalExeptionHandler.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Errors\\GlobalExeptionHandler.cs",
@@ -465,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Address\\ValueObjects\\Region.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Address\\ValueObjects\\Region.cs",
@@ -477,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "ErrorResponse.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Domain\\Errors\\ErrorResponse.cs",
               "RelativeDocumentMoniker": "..\\DaData.Domain\\Errors\\ErrorResponse.cs",
@@ -489,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\Desktop\\DaData\\repos\\DaData.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "..\\DaData.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
