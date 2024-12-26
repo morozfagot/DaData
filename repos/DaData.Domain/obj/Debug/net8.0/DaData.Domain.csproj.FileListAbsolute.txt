@@ -1,0 +1,13 @@
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\bin\Debug\net8.0\DaData.Domain.deps.json
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\bin\Debug\net8.0\DaData.Domain.dll
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\bin\Debug\net8.0\DaData.Domain.pdb
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.sourcelink.json
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.dll
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\refint\DaData.Domain.dll
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\DaData.Domain.pdb
+C:\Users\Евгений\Desktop\DaData\repos\DaData.Domain\obj\Debug\net8.0\ref\DaData.Domain.dll
